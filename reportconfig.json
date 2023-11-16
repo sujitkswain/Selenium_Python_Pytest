@@ -1,0 +1,19 @@
+{
+      "session_details" : {
+      "Owner": "Sujit Kumar Swain",
+      "application_name": "OrangeHRM Demo Web",
+      "platform": "Windows 10",
+      "additional_information":"Browser: Chrome",
+      "description": "Demo website for Automation Testing",
+      "application_version":"OrangeHRM OS 5.5"
+  },
+  "report_options" :{
+      "title": "Test Report",
+      "logo": "https://cdn.statically.io/gh/naveens33/ctreport-selenium/9a6cfed9/ctreport_selenium/ctreport_html/resource/logo-nobg.png",
+      "show_reference": "True",
+      "zip_if_screenshot": "True"
+  },
+    "history" :{
+      "connection_string" : "None"
+  }
+}
