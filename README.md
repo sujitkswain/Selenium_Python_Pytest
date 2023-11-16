@@ -29,9 +29,14 @@ Folder/Package Structure:
 ---------
   pytest test methods
   
-Root Directory/Project Directory
+->Root Directory/Project Directory
+-----------------------------------
   regressionsuite.ini(To run multiple files at a time)
+  
   conftest.py (For the setup and tear down methods and also driver initialization and invoking browser and also login to app)
+  
   README.md
+  
   requirements.txt (All the dependencies are available)
+  
   configfile.py(Base Url and which browser you want to run should be present in this file)
